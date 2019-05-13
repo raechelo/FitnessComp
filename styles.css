@@ -1,0 +1,94 @@
+.create-account {
+  display: block;
+  grid-area: create;
+  margin: 4rem auto;
+  width: 60%;
+}
+
+body {
+  display: grid;
+  font-family: Arial, Helvetica, sans-serif;
+  grid-template-columns: 1fr 2fr 3fr 3fr;
+  grid-template-areas: "sidebar header header header"
+  "sidebar pro goals motiv"
+  "create create create create";
+  margin: 0;
+  text-transform: capitalize;
+}
+
+section {
+  background-color: #b8d8d877;
+  margin: 10px 0 0 15px;
+  padding: 5px;
+}
+
+header {
+  background-color: #fe5f55;
+  border: 1px solid white;
+  color: white;
+  grid-area: header;
+  padding-left: 15px;
+}
+
+sidebar {
+  background-color: #fe5f55;
+  color: white;
+  grid-area: sidebar;
+  text-align: center;
+}
+
+sidebar h3:hover {
+  cursor: pointer;
+}
+
+sidebar h3:active {
+  background-color: #b1423b;
+}
+
+figcaption {
+  background-color: #7a9e9f;
+  padding: 5px;
+  text-align: center;
+}
+
+.profile {
+  grid-area: pro;
+}
+
+.profile-name {
+  font-size: 1.5rem;
+}
+
+.profile h6 {
+  margin: .2rem;
+}
+
+.profile-photo {
+  width: 100%;
+}
+
+.goals {
+  grid-area: goals;
+}
+
+.checks input {
+  display: block;
+}
+
+.motivations {
+  grid-area: motiv;
+}
+
+.motivations article h4, p {
+  margin: .5rem;
+}
+
+.motivations article h4 {
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 300px;) {
+  header {
+    background-color: magenta;
+  }
+}
