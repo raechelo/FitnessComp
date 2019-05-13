@@ -45,6 +45,15 @@ sidebar h3:active {
   background-color: #b1423b;
 }
 
+sidebar img {
+  width: 10%;
+}
+
+sidebar article {
+  position: relative;
+  bottom: 10px;
+}
+
 figcaption {
   background-color: #7a9e9f;
   padding: 5px;
