@@ -21,4 +21,5 @@ Refamiliarize ourselves with the building of a static comp, especially under a m
 
 ## Contributors
 [Raechel Odom](https://github.com/raechelo)
+
 [Mark Collins](https://github.com/kobesparrow)
