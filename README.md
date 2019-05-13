@@ -5,7 +5,14 @@ Fitness Comp was the outcome of a UI/UX Challenge given to developers to test th
 ## Visuals / Screenshots
 
 Given comp:
+
+desktop:
+
 [![Screen-Shot-2019-05-13-at-2-43-32-PM.png](https://i.postimg.cc/TYXtqCvg/Screen-Shot-2019-05-13-at-2-43-32-PM.png)](https://postimg.cc/XXQKnKJY)
+
+mobile:
+
+[![screencapture-file-Users-doc-Downloads-mobile-mockup-pdf-2019-05.png](https://i.postimg.cc/SxQFVyb6/screencapture-file-Users-doc-Downloads-mobile-mockup-pdf-2019-05.png)](https://postimg.cc/LnWb8FX5)
 
 Outcome:
 [![Screen-Shot-2019-05-13-at-2-49-46-PM.png](https://i.postimg.cc/jjQx28Tc/Screen-Shot-2019-05-13-at-2-49-46-PM.png)](https://postimg.cc/gwjFBHnL)
